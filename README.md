@@ -19,7 +19,6 @@ Welcome to my GitHub! I'm a passionate **Frontend Developer** and **Civil Engine
 - A **"30 Days, 30 Codes"** challenge: posting and previewing a new project every single day of April  
 - Freelancing & collaborative projects 
 - Building a stronger personal brand across platforms
-
 ---
 
 ### 💡 What I’m Passionate About
@@ -33,6 +32,3 @@ Welcome to my GitHub! I'm a passionate **Frontend Developer** and **Civil Engine
 - 💌 Email: buildwithmudia@gmail.com  
 - 🐦 Twitter/X: [@beninboyinlagos](https://x.com/beninboyinlagos)  
 - 🌍 Portfolio: [Coming Soon 👷‍♂️ Under Construction!]
-
----
-![Your GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mudia05&theme=dark)
